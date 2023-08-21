@@ -6,5 +6,7 @@ Pasta
 Dosa
 Chicken curry
 
+Pizza
+Noodles
 
 Thank you :)
